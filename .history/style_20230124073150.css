@@ -1,4 +1,5 @@
 /* GLOBAL STYLES */
+
 :root {
     --ff-body: font-family: 'Heebo', sans-serif;
     --ff-heading: font-family: 'Oswald', sans-serif;
@@ -29,6 +30,7 @@ blockquote {
 
 
 /* ARTICLE STYLES */
+
 img {
     display: block;
     max-width: 100%;

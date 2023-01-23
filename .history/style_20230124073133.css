@@ -1,4 +1,5 @@
 /* GLOBAL STYLES */
+
 :root {
     --ff-body: font-family: 'Heebo', sans-serif;
     --ff-heading: font-family: 'Oswald', sans-serif;
@@ -29,6 +30,7 @@ blockquote {
 
 
 /* ARTICLE STYLES */
+
 img {
     display: block;
     max-width: 100%;
@@ -118,8 +120,8 @@ article>*:not(img) {
     padding-right: 0.7vw;
 }
 
+/* Media Queries */
 
-/* MEDIA QUERIES */
 @media (min-width: 50em) {
     article {
         grid-template-columns: min(40%, 40rem) 1fr;
